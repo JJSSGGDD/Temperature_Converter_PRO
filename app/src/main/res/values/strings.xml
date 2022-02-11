@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Temperature Converter PRO</string>
+
+    <string name="Celsius">Celsius</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="Kelvin">Kelvin</string>
+    <string name="Rankine">Rankine</string>
+    <string name="Reaumur">Reaumur</string>
+
+    <string name="Boton_Calcular">calculate</string>
+    <string name="Boton_Borrar_Datos">delete</string>
+
+</resources>
